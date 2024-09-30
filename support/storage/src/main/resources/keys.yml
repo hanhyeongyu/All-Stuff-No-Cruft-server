@@ -1,0 +1,6 @@
+support:
+  database:
+    keys:
+      url: localhost:3306/all_stuff_no_cruft
+      username: root
+      password: password

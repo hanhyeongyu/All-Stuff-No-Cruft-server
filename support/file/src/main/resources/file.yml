@@ -1,0 +1,21 @@
+spring.servlet.multipart.max-file-size: 300MB
+spring.servlet.multipart.max-request-size: 300MB
+spring.servlet.multipart.enabled: true
+
+file.baseUrl: http://localhost:8080/
+
+file:images: images
+file.images.poster: images/posters
+file.images.profile: images/profiles
+
+file.pdfs: pdfs
+file.pdfs.slide: pdfs/slides
+
+
+file.videos: videos
+file.videos.talk: videos/talk
+
+
+file.videos.hsl: video_hsl
+file.videos.hsl.talk: video_hsl/talk
+
